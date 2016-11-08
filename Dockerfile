@@ -1,4 +1,4 @@
-FROM ankurgla22/c7-systemd
+FROM ankurgla22/docker-centos7-systemd
 MAINTAINER      Ankur Kumar <ankur.kumar@opus.co.jp>
 
 RUN yum update -y;\
